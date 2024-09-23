@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # visual-analytics-for-linguistics-project
 
 ## Contributors
